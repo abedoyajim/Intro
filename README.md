@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro <img height="40"</h1>
+<h1 align="center">Hi, I'm Alejandro <img height="40"</h1>
 <h3 align="center">Computer Science Engineer student at TEC Costa Rica</h3>
 
 <h3 align="center">Languages:</h3>
