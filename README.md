@@ -19,7 +19,6 @@
   <a> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="linux" width="40" height="40"/> 
   </a> 
-  </br>
   <a> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -46,7 +45,6 @@
    <a> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="git" width="40" height="40"/> 
   </a>
-  </br>
    <a> 
     <img src="https://expressjs.com/images/express-facebook-share.png" alt="git" width="60" height="30"/> 
   </a>
@@ -90,7 +88,6 @@
    <a> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="git" width="40" height="40"/> 
   </a>
-  </br>
    <a> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="git" width="40" height="40"/> 
   </a>
