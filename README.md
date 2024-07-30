@@ -1,10 +1,7 @@
-<h1 align="center">Hi, I'm Alejandro <img height="40"</h1>
-<h3 align="center">Computer Science Engineer student at TEC Costa Rica</h3>
-<h4 align="center">alebe12345@gmail.com</h4>
+<h2 align="center">Computer Science graduate from TEC Costa Rica</h2>
   
 <div align="center">
-   <a href="https://www.linkedin.com/in/alebe/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-   <a href="mailto:alebe12345@gmail.com?"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+   <a href="https://www.linkedin.com/in/abedoyajim/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 </div>
   
 <h1 align="center">Technologies </h1>
